@@ -150,7 +150,7 @@ entry_to.place(x=370,y=280)
 translate = Button(root,text='Translate',bg='white',fg='black',font=('bold',10),activebackground='orange',command=translate)
 translate.place(x=260,y=350)
 
-credits = Label(root,bg='black',fg='white',text='©Developed by Anya, Jaya, Nishtha',height=3,width=90)
+credits = Label(root,bg='black',fg='white',text='© Developed by Anya, Jaya, Kamlesh, Nishtha',height=3,width=90)
 credits.place(x=0,y=450)
 
 root.mainloop()
